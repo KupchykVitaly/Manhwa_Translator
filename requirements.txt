@@ -1,0 +1,15 @@
+# GUI Framework
+PyQt6
+
+# DeepL API Client
+deepl
+
+# Google Translate API Client (стабільна версія)
+googletrans==4.0.0-rc1
+
+# Optical Character Recognition (OCR)
+easyocr
+
+# Computer Vision library for image processing
+opencv-python-headless
+numpy
